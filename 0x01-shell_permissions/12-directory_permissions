@@ -1,4 +1,3 @@
 #!/bin/bash
 #!/bin/bash
 if [ ! -d "my_dir" ]; then mkdir -m 751 "my_dir"; fi
-
